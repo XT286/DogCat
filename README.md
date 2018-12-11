@@ -15,4 +15,4 @@ We then upload the prediction to Kaggle, and the current score is 0.07013. This 
 Update: in the third version of our model:
 https://github.com/XT286/DogCat/blob/master/dogcat_resnet_train_v3.py
 https://github.com/XT286/DogCat/blob/master/dogcat_resnet_test_v3.py
-We combined two models InceptionV3 and Xception to make predictions. We reached a score of 0.5149, and ranked 74/1314, roughly top 5% of all participants.
+We combined two models InceptionV3 and Xception to make predictions. We reached a score of 0.05149, and ranked 74/1314, roughly top 5% of all participants.
